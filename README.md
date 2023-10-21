@@ -1,2 +1,2 @@
 # hospitalProject
-C# kullanılarak masaüstü form uygulaması / MSSQL database
+C# Masaüstü Form Uygulaması / MSSQL DB
