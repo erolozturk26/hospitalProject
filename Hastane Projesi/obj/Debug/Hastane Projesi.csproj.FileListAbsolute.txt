@@ -1,0 +1,60 @@
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Kayit.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Hastalar.resources
+C:\Users\STUDENT2\Desktop\Erol Öztürk\OneDrive\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Poliklinikler.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Hastalar.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Kayit.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Poliklinikler.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\erolo\Desktop\C# Dersleri Üsküdar Üniversitesi\Form Büyük Projeler\Hastane Projesi\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Hastalar.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Kayit.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Poliklinikler.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+C:\Users\erolo\Desktop\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.exe.config
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.exe
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\bin\Debug\Hastane Projesi.pdb
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.AssemblyReference.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.SuggestedBindingRedirects.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Doktor.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Form1.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Hastalar.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Kayit.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Poliklinikler.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane_Projesi.Properties.Resources.resources
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.GenerateResource.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.csproj.CoreCompileInputs.cache
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.exe
+D:\EĞİTİMLER\YAZILIM\Projeler\C#\Devam Projeler\Hastane Projesi YENİ\Hastane Projesi\obj\Debug\Hastane Projesi.pdb
